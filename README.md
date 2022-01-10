@@ -17,6 +17,9 @@ Consiste em um criar de tarefas, no qual fica gravado via Local Storage.
 -JAVASCRIPT
 -LOCALSTORAGE
 
+# Hospedagem
+https://aslac2020-notas-tarefas.netlify.app/
+
 # Autor
 
 André de Sousa Lacerda
